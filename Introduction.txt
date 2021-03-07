@@ -1,0 +1,2 @@
+pycharm
+不一定要在env建QnAmaker
